@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+listing: default
+description: "Post description"
+author: "Fizz McPhee"
+date: "5/22/2021"
+categories:
+  - news
+  - code
+  - analysis
+---
+
+This is a post with Excutable code.

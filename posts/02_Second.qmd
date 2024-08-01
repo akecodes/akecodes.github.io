@@ -1,0 +1,18 @@
+---
+title: "Post With Code 02"
+listing:
+  default
+  categories: true
+
+description: "Post description"
+author: "AKE Codes"
+date: "8/01/2024"
+categories:
+  - news
+  - code
+  - analysis
+---
+
+This is a post 02
+
+
