@@ -1,7 +1,6 @@
 ---
 title: "Post With Code 02"
 listing:
-  default
   categories: true
 
 description: "Post description"
